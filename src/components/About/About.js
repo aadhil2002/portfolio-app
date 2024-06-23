@@ -17,7 +17,7 @@ function About() {
         <div className="BigCard">
         <ScrollAnimation animateIn="fadeInLeft">
           <Image
-            src="/man-svgrepo-com.svg"
+            src="https://raw.githubusercontent.com/aadhil2002/portfolio-app/d55b66855383069246063744d10ca7e1bbf7d54e/public/man-svgrepo-com.svg"
             alt="man-svgrepo"
           />
           <br />
