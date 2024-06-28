@@ -1,49 +1,36 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/ykte-feature-graphic.png",
-    title: "YouKnowTheEnding",
+    img: "https://github.com/aadhil2002/portfolio-app/blob/master/public/Screenshot%202024-06-28%20113241.png?raw=true",
+    title: "School Admission System",
     description:
-      "A cross-platform mobile game (in closed testing) where players try to find the missing pieces of a story.",
-    tech_stack: ["React Native", "Google Cloud", "NextJs", "TailwindCSS"],
-    github_url: "",
-    demo_url: "https://youknowtheending.net/",
+      "The School Admission System is designed to develop an online application that facilitates quick and easy admission processes for schools, allowing for the efficient addition of multiple student records.",
+    tech_stack: ["HTML", "CSS", "JavaScript", "PHP"],
+    github_url: "https://github.com/aadhil2002/school_admission_system"
   },
   {
-    img: "/renr-responsive.png",
-    title: "RENR Safety App",
+    img: "https://github.com/aadhil2002/portfolio-app/blob/master/public/Screenshot%202024-06-28%20114105.png?raw=true",
+    title: "GoBetween Transportation",
     description:
-      "A safety application for the Renewable Resources Dept. of BCIT",
-    tech_stack: ["React", "Firebase"],
-    github_url: "",
-    demo_url: "https://renr-bcit.web.app/",
+      "GoBetween Transportation encompasses any infrastructure or service involved in the transportation or storage of people, goods, substances, or vehicles, excluding bridges or other structures directly associated with international border crossings.",
+    tech_stack: ["HTML", "CSS", "JavaScript", "Django"],
+    github_url: "https://github.com/aadhil2002/Gobetween"
   },
   {
-    img: "/mymind-responsive.png",
-    title: "MyMind",
+    img: "https://github.com/aadhil2002/portfolio-app/blob/master/public/WhatsApp%20Image%202024-06-28%20at%2012.15.46_787c9a7b.jpg?raw=true",
+    title: "Stethosense",
     description:
-      "An app where users can purchase online therapy sessions and chat with their therapists.",
-    tech_stack: ["HTML", "CSS", "NodeJs", "MongoDB", "SocketIo"],
-    github_url: "https://github.com/salesp07/MyMind---Copy",
-    demo_url: "https://mymindweb.vercel.app/",
+      "Stethosense is a comprehensive healthcare management solution designed to empower users in effortlessly managing their health and well-being.",
+    tech_stack: ["HTML", "CSS", "JavaScript", "Django"],
+    github_url: "https://github.com/aadhil2002/Stethosense"
   },
   {
-    img: "/pokedex-responsive.png",
-    title: "Pokedex",
+    img: "https://github.com/aadhil2002/portfolio-app/blob/master/public/Machine-learning.png?raw=true",
+    title: "ML-Notebooks",
     description:
-      "A pokedex app that displays pokemon data, plays OSTs and makes pokemons dance.",
-    tech_stack: ["ReactJs", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/salesp07/Pokedex-ReactApp",
-    demo_url: "https://pokedex-salesp07.netlify.app/",
-  },
-  {
-    img: "/jobDetect.png",
-    title: "JobDetect",
-    description:
-      "An app to detect if a job posting is a scam or not using its description.",
-    tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/salesp07/JobDetectNode",
-    demo_url: "https://jobdetective.onrender.com/",
+      "The repository contains the list of Machine Learning projects done by me.",
+    tech_stack: ["Python", "Tensorflow", "Pytorch"],
+    github_url: "https://github.com/aadhil2002/ML-Notebooks"
   },
 ];
 
