@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio-app/static/css/main.143f80dc.css",
-    "main.js": "/portfolio-app/static/js/main.e545874c.js",
+    "main.js": "/portfolio-app/static/js/main.10c2ecf1.js",
     "index.html": "/portfolio-app/index.html",
     "static/media/blob-haikei.svg": "/portfolio-app/static/media/blob-haikei.ed4231cd548cd312fe4f.svg",
     "main.143f80dc.css.map": "/portfolio-app/static/css/main.143f80dc.css.map",
-    "main.e545874c.js.map": "/portfolio-app/static/js/main.e545874c.js.map"
+    "main.10c2ecf1.js.map": "/portfolio-app/static/js/main.10c2ecf1.js.map"
   },
   "entrypoints": [
     "static/css/main.143f80dc.css",
-    "static/js/main.e545874c.js"
+    "static/js/main.10c2ecf1.js"
   ]
 }
